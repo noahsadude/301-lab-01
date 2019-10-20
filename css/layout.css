@@ -34,10 +34,7 @@
   }
 }
   
-@media(max-width:777px){
-  nav, .box, .line1, #b, footer{
-    background-color:blue;
-  }
+@media(max-width:767px){
 
   nav{
     height: 75px;
