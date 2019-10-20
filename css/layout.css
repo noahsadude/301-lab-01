@@ -1,0 +1,70 @@
+@media(min-width:768px){
+
+  nav{
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+  }
+  
+  .line1 {
+    height: 200px;
+    width: 39.5%;
+    line-height: 200px;
+    float: left;
+  }
+  
+  #b{
+    width: 20.20%;
+    height: 600px;
+    line-height: 600px;
+  }
+  
+  .box{
+    float:left;
+    width: 19.62%;
+    height:250px;
+    line-height: 250px;
+  }
+  
+  footer{
+    float:left;
+    height:146px;
+    line-height:146px;
+    width: 79.23%;
+  }
+}
+  
+@media(max-width:777px){
+  nav{
+    height: 75px;
+    width: 100%;
+    line-height: 100px;
+  }
+    
+  .line1 {
+    height: 125px;
+    width: 100%;
+    line-height: 125px;
+  }
+    
+  #b{
+    height: 150px;
+    width: 100%;
+    line-height: 150px;
+  }
+    
+  .box{
+    float:left;
+    width: 49.5714%;
+    height:250px;
+    line-height: 250px;
+  }
+    
+  footer{
+    float:left;
+    height:80px;
+    line-height:80px;
+    width: 100%;
+  }
+    
+}
