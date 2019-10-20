@@ -34,7 +34,8 @@
   }
 }
   
-@media(max-width:777px){
+@media(max-width:767px){
+
   nav{
     height: 75px;
     width: 100%;
