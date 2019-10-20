@@ -35,6 +35,10 @@
 }
   
 @media(max-width:777px){
+  nav, .box, .line1, #b, footer{
+    background-color:blue;
+  }
+
   nav{
     height: 75px;
     width: 100%;
